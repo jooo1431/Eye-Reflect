@@ -1,8 +1,7 @@
 # 3D scene reconstruction via eye-reflection
 This repository is the code base of a Hiwi Project 
 
-* Author: YeonJoo Cho 
-* Supervisor: Chuhan Jiao, M.sc.
+* Author: YeonJoo Cho  
 
 ## Abstract
 This project aims to generate the eye-image dataset for 3D scene reconstruction via eye-reflection 
